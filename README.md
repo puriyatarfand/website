@@ -1,5 +1,6 @@
 # website
-سلام
-من چیزی بلد نیستم و دارم یاد میگیرم
-لطفا کمکم کنید
-باتشکر
+Hi
+I don't know anything
+I am learning GitHub in the preliminary stage
+Please help me.
+Thank you
